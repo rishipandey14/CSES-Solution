@@ -1,0 +1,29 @@
+# Compiled binaries
+*.exe
+*.o
+*.class
+*.dll
+*.so
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
+*.bak
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Environment variables
+.env
+
+# Version control specific files
+.DS_Store
+Thumbs.db
